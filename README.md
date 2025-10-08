@@ -1,8 +1,7 @@
 ## Questoes-java 08/10
 
 
-### 3. Escreva um programa que calcule o fatorial de um número digitado pelo
-usuário.
+### 3. Escreva um programa que calcule o fatorial de um número digitado pelo usuário.
 
 ```
 import java.util.Scanner;
